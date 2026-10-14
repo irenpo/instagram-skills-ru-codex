@@ -1,0 +1,4 @@
+interface:
+  display_name: "Банк хуков"
+  short_description: "Разбор роликов по просмотрам и формулам хуков"
+  default_prompt: "Используй $ig-viral для моего Instagram-аккаунта."

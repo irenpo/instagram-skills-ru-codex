@@ -1,0 +1,4 @@
+interface:
+  display_name: "Контент-план"
+  short_description: "План публикаций Instagram на неделю"
+  default_prompt: "Используй $ig-plan для моего Instagram-аккаунта."

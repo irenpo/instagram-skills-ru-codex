@@ -1,0 +1,4 @@
+interface:
+  display_name: "Подписи Instagram"
+  short_description: "Подписи к постам с проверкой текста и призыва"
+  default_prompt: "Используй $ig-caption для моего Instagram-аккаунта."

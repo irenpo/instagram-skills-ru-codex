@@ -1,0 +1,4 @@
+interface:
+  display_name: "Из материала в посты"
+  short_description: "Переупаковка длинного материала в посты и Reels"
+  default_prompt: "Используй $ig-repurpose для моего Instagram-аккаунта."

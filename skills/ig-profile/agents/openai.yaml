@@ -1,0 +1,4 @@
+interface:
+  display_name: "Разбор профиля"
+  short_description: "Оценка профиля и улучшение шапки Instagram"
+  default_prompt: "Используй $ig-profile для моего Instagram-аккаунта."

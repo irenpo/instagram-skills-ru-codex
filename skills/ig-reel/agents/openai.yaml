@@ -1,0 +1,4 @@
+interface:
+  display_name: "Сценарии Reels"
+  short_description: "Сценарии Reels, хуки и тайминг на русском"
+  default_prompt: "Используй $ig-reel для моего Instagram-аккаунта."

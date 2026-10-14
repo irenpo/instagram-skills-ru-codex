@@ -1,0 +1,4 @@
+interface:
+  display_name: "Карусели Instagram"
+  short_description: "Тексты и изображения каруселей на русском"
+  default_prompt: "Используй $ig-carousel для моего Instagram-аккаунта."
